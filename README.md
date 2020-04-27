@@ -2,7 +2,7 @@
 Arduino code to control an escape room hangman puzzle. The puzzle has
 two parts to it. First, the team collects six cubes and places them
 in receptacles to spell a name. The cubes contain RFID tags which are
-read by six RFID readers. When the cbes have been placed correctly
+read by six RFID readers. When the cubes have been placed correctly
 a solenoid is activated which unlocks the actual hangman puzzle.
 This consists of a custom "keyboard" which has the correct buttons
 hardwired to generate specific voltages on an output line. All
